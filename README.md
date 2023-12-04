@@ -6,7 +6,7 @@ With a single 3090 GPU, our implementation efficiently trains a small MLP model.
 
 ## Installation
 
-Please install the latest versions of Tensorflow (`tensorflow` following [[https://pytorch.org](https://pytorch.org](https://www.tensorflow.org/install/pip))).
+Please install the latest versions of Tensorflow (`tensorflow` following [[https://tensorflow.org](https://pytorch.org](https://www.tensorflow.org/install/pip))).
 
 ## Prepare the data
 
@@ -20,5 +20,5 @@ See `main_v2.py` for more options. For results in the section 4.2 of our paper, 
 
 Use `main.py` for all functions and refer to `main_v2.py` for the usage of all arguments.
 ```bash
-python main.py {ARGUMENTS}
+python main.py 
 ```
